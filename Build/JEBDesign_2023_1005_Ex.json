@@ -1,0 +1,16 @@
+{
+"companyName": "New",
+"productName": "JetEngineBracket_Design_FixedRes",
+"productVersion": "0.1",
+"dataUrl": "JEBDesign_2023_1005_Ex.data.unityweb",
+"wasmCodeUrl": "JEBDesign_2023_1005_Ex.wasm.code.unityweb",
+"wasmFrameworkUrl": "JEBDesign_2023_1005_Ex.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.10f1"
+}
